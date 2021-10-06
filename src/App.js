@@ -43,9 +43,7 @@ export default function Home(){
   return(
 
       <div>
-        <div>
-          <button className = "button is-primary" >nueva palabra</button>
-        </div>
+        
         <div><Palabras word={palabra} longitud={l_palabra}/>
       
       </div>
