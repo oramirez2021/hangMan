@@ -1,0 +1,38 @@
+{
+  "api_owner": {
+    "author": "Alex P. Scigalszky",
+    "cafecito": "https://cafecito.app/palabrasaleatorias",
+    "instagram": "https://www.instagram.com/palabras.aleatorias",
+    "github": "https://github.com/AlexScigalszky",
+    "linkedin": "https://www.linkedin.com/in/alexscigalszky/"
+  },
+  "body": {
+    "Word": "sinopsis",
+    "Definition": "%0D%0A%3Cbr%3E%3Cspan%20class=%22small1%22%3EDiccionario%20de%20la%20lengua%20espa%C3%B1ola%20&copy;%202005%20Espasa-Calpe:%3C/span%3E%3Cdiv%20onclick='redirectWR(event,%22ESdefinicion%22)'%20class='trans%20clickable'%3E%3Ch3%3Esinopsis%20%3C/h3%3E%3Col%20class='entry'%3E%3Cli%3Ef.%20Exposici%C3%B3n%20general%20de%20una%20materia%20o%20asunto,%20presentados%20en%20sus%20l%C3%ADneas%20esenciales:%3Cbr%3E%3Cspan%20class=%22i%22%3Een%20la%20entrevista%20me%20hicieron%20una%20sinopsis%20de%20las%20responsabilidades%20de%20mi%20trabajo.%3C/span%3E%20%3Cli%3E%20Sumario,%20esquema%20o%20resumen:%3Cbr%3E%3Cspan%20class=%22i%22%3Ehe%20le%C3%ADdo%20la%20sinopsis%20de%20la%20pel%C3%ADcula.%3C/span%3E%3Cbr%3E%20&#9830;%20No%20var%C3%ADa%20en%20pl.%3Cbr%3E%3C/li%3E%3C/ol%3E%3C/div%3E%3Cdiv%20id='FTintro'%3E&#39;%3Cb%3Esinopsis%3C/b%3E&#39;%20aparece%20tambi%C3%A9n%20en%20las%20siguientes%20entradas:%0D%0A%3C/div%3E%0D%0A%3Cdiv%20class='FTlist'%3E%0D%0A%3Ca%20href=%22/definicion/organigrama%22%3Eorganigrama%3C/a%3E%0D%0A%20-%20%3Ca%20href=%22/definicion/sin%C3%B3ptico%22%3Esin&#243;ptico%3C/a%3E%0D%0A%3C/div%3E%0D%0A%0D%0A",
+    "Author": "ascigalszky",
+    "ErrorMessage": null,
+    "EncodingWebName": "utf-8",
+    "WordOrigin": null,
+    "UrlDefinitionSource": null,
+    "urls": {
+      "url": "https://palabras-aleatorias-public-api.herokuapp.com/palabras-aleatorias?Word=sinopsis",
+      "wiktionary": "https://es.wiktionary.org/wiki/sinopsis",
+      "wikipedia": "https://es.wikipedia.org/wiki/sinopsis",
+      "thumbnail": "https://palabras-aleatorias-public-api.herokuapp.com/word-as-small-image?word=sinopsis",
+      "image": "https://palabras-aleatorias-public-api.herokuapp.com/word-as-image?word=sinopsis"
+    },
+    "DefinitionMD": " f. Exposición general de una materia o asunto, presentados en sus líneas esenciales:en la entrevista me hicieron una sinopsis de las responsabilidades de mi trabajo.  Sumario, esquema o resumen:<br><span class=\"i\">he leído la sinopsis de la película.<br> &#9830; No varía en pl.",
+    "Related": [
+      {
+        "Word": "organigrama",
+        "urls": {
+          "url": "https://palabras-aleatorias-public-api.herokuapp.com/palabras-aleatorias?Word=organigrama",
+          "wiktionary": "https://es.wiktionary.org/wiki/organigrama",
+          "wikipedia": "https://es.wikipedia.org/wiki/organigrama",
+          "thumbnail": "https://palabras-aleatorias-public-api.herokuapp.com/word-as-small-image?word=organigrama",
+          "image": "https://palabras-aleatorias-public-api.herokuapp.com/word-as-image?word=organigrama"
+        }
+      }
+    ]
+  }
+}
